@@ -1,43 +1,13 @@
 #EXTM3U
-#EXTINF:-1 ,翡翠台 (N/A)
-http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111
-#EXTINF:-1 ,翡翠台 (1280x720)
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 ,翡翠台 (1280x720)
-http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1 ,翡翠台 (1920x1080)
-https://cdn3.163189.xyz/live/fct/stream.m3u8
-#EXTINF:-1 ,翡翠台 (1280x720)
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 ,翡翠台 (3840x2160)
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 ,翡翠台6 (1280x720)
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 ,翡翠台8 (1920x1080)
+#EXTINF:-1 ,翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 ,翡翠台4K (3840x2160)
-http://cdn.132.us.kg/live/fct4k/stream.m3u8
-#EXTINF:-1 ,翡翠台4K (3840x2160)
-https://cdn.163189.xyz/live/fct4k/stream.m3u8
-#EXTINF:-1 ,tvb翡翠台 (1280x720)
-https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
-#EXTINF:-1 ,华丽翡翠台 (1280x720)
-http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
-#EXTINF:-1 ,华丽翡翠台 (1280x720)
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 ,TVB Jade (翡翠台) (720p) (1280x720)
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 ,翡翠台 (1920x1080)
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 ,翡翠台 (N/A)
-https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
-#EXTINF:-1 ,翡翠台 (N/A)
-https://stream1.freetv.fun/9d4fa7779c923ec2103a461f5d8c22275532ee65b176d1c476ce727188ee512f.m3u8
-#EXTINF:-1 ,翡翠台 (N/A)
-https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
-#EXTINF:-1 ,翡翠台 (N/A)
-https://stream1.freetv.fun/332e58d4889775e85e40eb15fb99213958582128ad269277f3393bb0f2f54039.ctv
-#EXTINF:-1 ,翡翠台 (N/A)
-https://stream1.freetv.fun/1c0223fe93d3aaca762184373a28af2c274b504a8af9798d4aa3d06c65de3260.m3u8
-#EXTINF:-1 ,翡翠台 (N/A)
-https://stream1.freetv.fun/44bd1ba645adb14b4f6ea64c0fd9764c02a373898e39bff7c06dc9afe931053d.m3u8
+#EXTINF:-1 ,翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 ,无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 ,无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 ,广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 ,广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
